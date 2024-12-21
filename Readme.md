@@ -116,6 +116,22 @@ dotnet test
 
 Contributions are welcome! Please submit a pull request or open an issue for suggestions or bug reports.
 
+---
+
+## Author
+
+Developed with **🧡 passion** by **Peter van de Pas**.
+
+For any questions or feedback, feel free to open an issue or contact me directly!
+
+---
+
+## 🔗 Links
+
+- [ScriptRunner Plugins Repository](https://github.com/petervdpas/ScriptRunner.Plugins)
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).

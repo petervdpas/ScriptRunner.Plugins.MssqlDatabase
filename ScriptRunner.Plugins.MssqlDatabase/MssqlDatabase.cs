@@ -7,7 +7,7 @@ using ScriptRunner.Plugins.Interfaces;
 using ScriptRunner.Plugins.Logging;
 using ScriptRunner.Plugins.Models;
 
-namespace ScriptRunner.Plugins.AzureSuite;
+namespace ScriptRunner.Plugins.MssqlDatabase;
 
 /// <summary>
 ///     A helper class that provides MSSQL-specific database methods using Azure AD Interactive Authentication.

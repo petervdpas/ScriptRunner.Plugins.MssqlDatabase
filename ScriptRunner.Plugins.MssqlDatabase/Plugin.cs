@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.Extensions.DependencyInjection;
 using ScriptRunner.Plugins.Attributes;
-using ScriptRunner.Plugins.AzureSuite;
 using ScriptRunner.Plugins.Interfaces;
 using ScriptRunner.Plugins.Utilities;
 
-namespace ScriptRunner.Plugins.Template;
+namespace ScriptRunner.Plugins.MssqlDatabase;
 
 /// <summary>
 ///     A plugin that registers and provides several Azure utilities.

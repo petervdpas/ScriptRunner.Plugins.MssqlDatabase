@@ -118,4 +118,4 @@ Contributions are welcome! Please submit a pull request or open an issue for sug
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](./LICENSE).
